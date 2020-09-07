@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"If you lose you're out of the family"
 Use the left arrow to go back!
